@@ -7,4 +7,4 @@ Information related to direct marketing campaigns of the bank are as follows. Th
 
 datas in form of CSV files and other raw data included here only on which the analysis was done.
 
-#Solution file name is : "roshan_Project_Simplilearn_Spark.doc" or "roshan_Project_Simplilearn_Spark.pdf"
+# Solution file name is : "roshan_Project_Simplilearn_Spark.doc" or "roshan_Project_Simplilearn_Spark.pdf"
